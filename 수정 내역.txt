@@ -1,1 +1,4 @@
-﻿24.06.01
+﻿240621
+
+수정 내역은 깃허브로
+https://github.com/loliHibiki/Ehnd-personal-dictionary
