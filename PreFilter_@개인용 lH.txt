@@ -789,8 +789,7 @@ _TGL	_ON:CHINN_	ちん	_MATCH_CHECK	10000000	0	//綾那ちん
 
 _TGL	_ON:NNYO_	んよ(?=[Ⓖ-Ⓩ])	_MATCH_CHECK	29410099	1	//儂をぶっ刺して封印したんよ。
 
-
-
+_TGL	_ON:DASHI_	出し	_MATCH_CHECK	29410099	1	//ゴミ出しの日
 
 
 //ʞ	ҡ	//11810100 가타카나
