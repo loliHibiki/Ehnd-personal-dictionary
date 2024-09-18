@@ -1,4 +1,4 @@
-﻿240819
+﻿240918
 
 수정 내역은 깃허브로
 https://github.com/loliHibiki/Ehnd-personal-dictionary
